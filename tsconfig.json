@@ -11,6 +11,8 @@
     "sourceMap": false,
     "outDir": "./dist",
     "strict": true,
+    "rootDir": "./src",
+
     "strictPropertyInitialization": false
 
   },
