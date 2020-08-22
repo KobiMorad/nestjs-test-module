@@ -1,3 +1,3 @@
 import { from } from "rxjs";
 
-export * from './dist'
+export * from './src'
