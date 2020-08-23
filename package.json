@@ -1,9 +1,11 @@
 {
-  "name": "@nestjs/test",
-  "version": "0.0.22",
+  "name": "nestjs-test-module",
+  "version": "0.0.20",
   "description": "",
   "author": "",
   "private": false,
+  "main": "./dist/index.js",
+  "types": "./dist/index.ts",
   "license": "UNLICENSED",
   "files": [
     "dist"
