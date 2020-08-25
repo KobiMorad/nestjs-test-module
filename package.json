@@ -7,6 +7,10 @@
   "main": "./dist/index.js",
   "types": "./dist/index.ts",
   "license": "UNLICENSED",
+  "repository": {
+    "type": "git",    
+		"url": "https://github.com/KobiMorad/nestjs-test-module.git"
+	},
   "files": [
     "dist"
   ],
